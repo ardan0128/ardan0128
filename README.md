@@ -1,19 +1,27 @@
-- 👋 Hi, I’m @jortier
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=soft&color=83DCB7&fontColor=FDFD96&section=header&text=Jortier&animation=twinkling&desc=Viva%20La%20Vida&descAlignY=80)
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<p align="center">
+	⚒Tech Stack🛠
+	<br/>
+	<br/>👨‍💻 Skills I use most and need continuous learning
+	<br/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+	<br/>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 	<br/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+	<br/>📖 Skills I've used but want to learn properly
+	<br/>
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-</div>
+	<br/>
+	<br/>💻 Dev Tools
+	<br/>
+	<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+</p>	
 
-아이콘 추가 링크 - https://simpleicons.org/
+🚧 Adding content...
