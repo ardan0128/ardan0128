@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=83DCB7&fontColor=FDFD96&section=header&text=Jortier&animation=twinkling&desc=Viva%20La%20Vida&descAlignY=80)
-
+<h3 align="center">⚒Tech Stack🛠</h3>
 <p align="center">
-	⚒Tech Stack🛠
-	<br/>
-	<br/>👨‍💻 Skills I use most and need continuous learning
-	<br/>
+	👨‍💻 Skills I use most and need continuous learning<br/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -24,4 +21,4 @@
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 </p>	
 
-🚧 Adding content...
+<h3 align="center">🚧 Adding content...</h3>
