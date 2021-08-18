@@ -21,4 +21,7 @@
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 </p>	
 
+<h3 align="center">✍️ What do I do now</h3>
+<p align="center">Code States Software Engineering 33th</p>
+
 <h3 align="center">🚧 Adding content...</h3>
