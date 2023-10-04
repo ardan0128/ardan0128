@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=83DCB7&fontColor=FDFD96&section=header&text=Jortier&animation=twinkling&desc=Viva%20La%20Vida&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=83DCB7&fontColor=FDFD96&section=header&text=ardan0128&animation=twinkling&desc=Eclipse first, the rest nowhere.&descAlignY=80)
 <h3 align="center">⚒Tech Stack🛠</h3>
 <p align="center">
 	👨‍💻 Skills I use most and need continuous learning<br/>
